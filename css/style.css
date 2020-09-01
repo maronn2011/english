@@ -1,0 +1,10 @@
+button.ebutton{
+  margin: 10px;
+  flex: 0 0 20%;
+}
+
+input{
+  height: 50px;
+  width: 100%;
+  word-break: keep-all;
+}
